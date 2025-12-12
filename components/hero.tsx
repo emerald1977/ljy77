@@ -40,7 +40,7 @@ export function Hero() {
     name: "이정렬",
     title: "단부건 35기",
     description: "한국토지주택공사에서 근무합니다",
-    profileImage: "/uploads/hero-profile-1761477237286.png",
+    profileImage: "/uploads/hero-profile-1765526122781.jpg",
     backgroundImage: "",
     backgroundVideo: "",
     backgroundOpacity: 0.1,
